@@ -1,7 +1,7 @@
 # 🎯 Recommandation de Contenu Personnalisée avec Cold Start Handling
 
 **Projet réalisé par : Cyprien DERUELLE**  
-M2 - [SCIA]  
+M1 - [SCIA]  
 EPITA 2026
 
 ---
